@@ -1,12 +1,11 @@
 # PigpenCipher
-Pigpen Research for CyberSecurity
 
-## Historical Context
+### Historical Context
 
-## Mechanics
+### Mechanics
 
-## Mathematical Analysis
+### Mathematical Analysis
 
-## Computer Code
+### Computer Code
 
-## Final Analysis
+### Final Analysis
