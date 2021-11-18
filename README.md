@@ -2,7 +2,7 @@
 
 [Historical Context]()
 
-[Mechanics]()
+[Mechanics](mechanics.md)
 
 [Mathematical Analysis]()
 
