@@ -6,6 +6,6 @@
 
 [Mathematical Analysis]()
 
-![Computer Code](computerCode.md)
+[Computer Code](computerCode.md)
 
 [Final Analysis]()
