@@ -4,7 +4,7 @@
 
 [Mechanics]()
 
-[Mathematical Analysis]()
+[Mathematical Analysis](mathematicalAnalysis.md)
 
 [Computer Code]()
 
