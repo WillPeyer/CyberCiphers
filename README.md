@@ -1,6 +1,6 @@
 # PigpenCipher
 
-[Historical Context]()
+[Historical Context](historicalContext.md)
 
 [Mechanics]()
 
