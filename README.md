@@ -1,4 +1,4 @@
-# PigpenCipher
+# Pigpen Cipher
 
 [Historical Context](historicalContext.md)
 
@@ -9,3 +9,5 @@
 [Computer Code](computerCode.md)
 
 [Final Analysis]()
+
+# Book Cipher
