@@ -12,7 +12,7 @@
 
 # Book Cipher
 
-[Historical Context]()
+[Historical Context](bookHistoricalContext.md)
 
 [Mechanics](bookMechanics.md)
 
