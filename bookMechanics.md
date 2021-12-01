@@ -1,6 +1,2 @@
-# Mechanics
-A book cipher is a type of homophonic substitution cipher where the key is any predetermined book or other piece of literature that both parties have access to. To encrypt something using a book cipher, write the page number, line number, and position of a word in a book. The notation looks something like this
-![image failed to load](https://www.wondersandmarvels.com/wp-content/uploads/2012/11/IMG_20121129_102859.jpg)
-
-to decrypt a book cipher, use the book the cipher was encrypted with and find the word each set of numbers is reffering to.
-
+This cipher functions by using a predetermined book and using the order of words present in the book to make a message of numbers that represent said words. Basically, the numbers in the ciphertext represent what place that word is in the order of words in a book. For every word encrypted, there are three numbers that represent it. The first, being the page number; the second, being the line number; and third, being the number on that line.
+![image](https://www.wondersandmarvels.com/wp-content/uploads/2012/11/IMG_20121129_102859.jpg)
