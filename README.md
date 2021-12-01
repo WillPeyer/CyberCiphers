@@ -16,7 +16,7 @@
 
 [Mechanics](bookMechanics.md)
 
-[Mathematical Analysis](bookMathmaticalAnalysis.md)
+[Mathematical Analysis](bookMathematicalAnalysis.md)
 
 [Computer Code](bookComputerCode.md)
 
