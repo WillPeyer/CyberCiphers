@@ -2,4 +2,4 @@ Probably the most common cipher, it was used in The American Revolution, after t
 
 ![Beale cipher](https://user-images.githubusercontent.com/94381080/144263525-d83c73a8-7980-4fd5-a872-90383ef2e212.jpeg)
 
-[Go back](main.md)
+[Go back](README.md)
