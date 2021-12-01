@@ -1,1 +1,1 @@
-There isn't really any math involved with a book cipher, as it only uses substition. A book cipher works by giving words a location in a book. These locations are written in a sequence of numbers. To decode This cipher, you would use the numbers to tell you where the word is located in the book.
+There isn't really any math involved with a book cipher, as it only uses substition. Theoretically, there are endless posibilities because you could used any book, and any word, from any page in the countless number of books that exist or will exist.
